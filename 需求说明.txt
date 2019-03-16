@@ -1,0 +1,17 @@
+主机类：
+属性：
+state(互斥状态）：空闲，发送，碰撞
+id（唯一）
+name（主机名）
+dest_name（目的机器名称）
+collisions(冲突次数）
+timer（计时器）
+msg（发送，接收消息框）
+
+isSuspend(挂起信号）
+hasSent(发送成功信号）
+方法：
+restart(重启）
+
+
+
